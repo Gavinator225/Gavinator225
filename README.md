@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gavin pelton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gavin pelton" height="30" width="40" /></a>
+  <a href="gwpelton@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw2wUtU_kj91Q0wRoJCgLTQR&ust=1749056239192000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDjxbDc1Y0DFQAAAAAdAAAAABAE)" alt="gavin pelton" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
