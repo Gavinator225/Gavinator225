@@ -8,8 +8,8 @@
 
 <h3 align="left">Websites</h3>
 <p align="left">
-<a href="https://gavinpelton.netlify.app/">My Website</a>
-<a href="https://emogenius.netlify.app/">Emoji Guesser</a>
+<a href="https://gavinpelton.netlify.app/" target="blank">My Website</a>
+<a href="https://emogenius.netlify.app/" target="blank">Emoji Guesser</a>
 </p>
 
 
